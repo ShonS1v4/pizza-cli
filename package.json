@@ -1,0 +1,12 @@
+{
+  "name": "friday-cli",
+  "version": "1.0.0",
+  "description": "Консольное приложение для заказа пиццы в офис!",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT Lic",
+  "dependencies": {
+    "commander": "^9.2.0"
+  },
+  "bin": "index.js"
+}
